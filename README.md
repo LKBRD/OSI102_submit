@@ -1,7 +1,3 @@
-# OSI102_submit
+# OSI102 MacMaster CCE
 
-## test sync
-
-### h3 header
-
-### h4 test sync
+## Assignment Submissions
